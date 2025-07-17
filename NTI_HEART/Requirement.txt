@@ -1,8 +1,0 @@
-1- Numpy
-2- Pandas
-3- Matplotlib
-4- sklearn
-5- pickle
-6- imblearn
-7- seaborn
-8- gradio
